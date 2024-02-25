@@ -1,0 +1,11 @@
+Class Demo{
+Demo()
+{
+System.out.println("default constructor is running");
+}
+
+public static void main (String gg[])
+{
+Demo d =new Demo();A
+}
+}
