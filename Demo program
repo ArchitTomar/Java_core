@@ -1,0 +1,6 @@
+Class Demo {
+public static void main (string gg[])
+{
+system.out.println("this is my first program");
+}
+}
