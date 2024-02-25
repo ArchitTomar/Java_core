@@ -1,6 +1,6 @@
-Class Demo {
-public static void main (string gg[])
+class Demo {
+public static void main (String gg[])
 {
-system.out.println("this is my first program");
+System.out.println("this is my first program");
 }
 }
