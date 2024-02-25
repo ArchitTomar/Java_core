@@ -1,0 +1,8 @@
+class Demo {
+int a=15;
+public static void main (String gg[])
+{
+Demo d =new Demo();
+System.out.println(d.a);
+}
+}
