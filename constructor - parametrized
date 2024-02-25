@@ -1,0 +1,12 @@
+class Demo
+{
+Demo(int a,int b)
+{
+System.out.println(a+b);
+}
+
+public static void main (String gg[])
+{
+Demo d =new Demo(45,18);
+}
+}
