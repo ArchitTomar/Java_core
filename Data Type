@@ -1,0 +1,7 @@
+Class Demo {
+public static void main (string gg[])
+{
+byte a=10;
+system.out.println(a);
+}
+}
