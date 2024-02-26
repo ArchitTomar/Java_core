@@ -1,0 +1,14 @@
+class Demo{
+public static void main (String gg[])
+{
+int i=1;
+for(;;)
+{ 
+if(i<=10){
+i++;
+System.out.println(i);
+i++;
+}
+}
+}
+}
