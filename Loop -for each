@@ -1,0 +1,11 @@
+class Demo{
+public static void main (String gg[])
+{
+int ary[]={2,3,4,5,6};
+for(int i:ary)
+{ 
+
+System.out.println(i);
+}
+}
+}
