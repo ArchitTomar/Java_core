@@ -1,0 +1,18 @@
+class Demo{
+int Demo1()
+{
+ System.out.println("int Demo1 is running");
+return 0;
+}
+void Demo2( int n)
+{
+System.out.println("int Demo2 is running");
+}
+public static void main(String gg[])
+{
+Demo d =new Demo ();
+d.Demo1();
+d.Demo2(23);
+}
+
+}
