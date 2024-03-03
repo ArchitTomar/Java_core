@@ -1,0 +1,34 @@
+class calculator
+{
+void add(int a,int b)
+{
+System.out.println(a+b +"is answer");
+
+}void sub(int a,int b)
+{
+System.out.println(a-b +"is answer");
+
+}
+void mul(int a,int b)
+{
+System.out.println(a*b +"is answer");
+
+}
+void div(int a,int b)
+{
+System.out.println(a/b +"is answer");
+
+}
+}
+
+class demo extends calculator
+{
+public static void main(String gg[])
+{
+ demo d = new demo();
+d.add(8,5);
+d.sub(7,8);
+d.mul(4,67);
+d.div(20,2);
+}
+}
