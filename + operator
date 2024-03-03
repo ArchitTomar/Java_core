@@ -1,0 +1,11 @@
+class Demo
+{
+public static void main(String gg[])
+{
+int a=23;
+int b=32;
+String c="archit";
+System.out.println(a+b+c);
+System.out.println(a+(b+c));
+}
+}
