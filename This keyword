@@ -1,0 +1,18 @@
+class Demo 
+{
+int a=9;
+void Demo()
+{
+int a= 5;
+System.out.println(a);
+System.out.println(this.a);
+}
+public static void main (String gg[])
+{
+System.out.println("jai shree ram" +"  " +"jai hanuman ji ");
+Demo d = new Demo();
+
+System.out.println(d.a);
+d.Demo();
+}
+}
