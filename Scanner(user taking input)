@@ -1,0 +1,15 @@
+import java.util.Scanner;
+class dd
+{
+public static void main(String gg[])
+{
+ System.out.println(" First program to take input from user ");
+System.out.println(" enter first lucky number ");
+Scanner sc=new Scanner(System.in);
+int a=sc.nextInt();
+System.out.println(" enter first lucky number ");
+String b=sc.next();
+System.out.println(" first lucky  number is " +"  " +a);
+System.out.println(" first lucky name is " + "  " +b);
+}
+}
