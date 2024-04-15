@@ -1,0 +1,12 @@
+class ss extends Object
+{
+public String toString()
+{
+return"archit";
+}
+public static void main(String gg[])
+{
+ss s =new ss();
+System.out.println(s);
+}
+} 
