@@ -1,0 +1,15 @@
+class dummy
+{
+static class demo
+{
+static void s(){
+System.out.println("demo is running");
+}
+}
+}
+class show{
+public static void main(String gg[])
+{
+dummy.demo.s();
+}
+}
