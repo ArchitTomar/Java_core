@@ -1,0 +1,22 @@
+import java.util.Scanner;
+class main{
+public static void main(String gg[])
+{
+Scanner sc=new Scanner(System.in);
+System.out.println(" enter size of array");
+int a=sc.nextInt();
+int ary[]=new int[a];
+System.out.println("enter position of array");
+int b=sc.nextInt();
+System.out.println(" enter values of array");
+int c=sc.nextInt();
+try{
+ary[b]=c;
+System.out.println("element is"+"   "+ary [b]);
+}
+catch (ArrayIndexOutOfBoundsException e)
+{
+System.out.println(" array not found");
+}
+}
+}
